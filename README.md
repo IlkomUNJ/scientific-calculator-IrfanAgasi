@@ -1,6 +1,9 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/ukXkuQi0)
 # ScientificApplication
-This is blank template with the exception of this readme. You are free to push anything to this repo that are related to the homework. 
+Nama: Muhammad Irfan Agasi
+NIM: 1313623042
+
+I implemented shunting yard algorithm, there are still many bugs in unary and scientific calculations :D 
 
 For qualifying for a full grade you just need:
 - Fully working basic calculator: +, -, *, /
